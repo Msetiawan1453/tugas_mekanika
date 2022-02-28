@@ -13,8 +13,8 @@
 ### Bird abilities
 - Red Bird - none
 - Yellow Bird - speed boost
-- Owl (Brown Bird) - Explosion
+- Owl - Explosion
 
 ## Stuff changed or added
-- (23a0fc8) Add exploding bird
-- (71160b2) Add more levels and level selection feature
+- Add exploding bird
+- Add more levels and level selection feature
